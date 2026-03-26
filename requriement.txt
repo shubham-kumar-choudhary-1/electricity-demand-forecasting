@@ -1,0 +1,14 @@
+Electricity Consumption Forecasting Using Machine Learning and Time-Series Models on Smart Grid Data
+
+This project focuses on short-term electricity demand forecasting using government data.
+Time-based and lag features were engineered to capture temporal patterns.
+Multiple machine learning models were trained and evaluated.
+Among all models, XGBoost achieved the best performance with R² ≈ 0.96.
+The results show that advanced ensemble methods can outperform traditional models for demand forecasting.
+
+
+requests
+pandas
+matplotlib
+scikit-learn
+xgboost
